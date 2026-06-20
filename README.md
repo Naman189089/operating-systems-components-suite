@@ -13,7 +13,7 @@ Each linked repository focuses on a specific core operating systems or concurren
 A minimal program loader that demonstrates the fundamentals of loading and executing binaries, including basic memory layout and control transfer.
 
 Repository:  
-https://github.com/rudra-nar/Simple-Loader
+https://github.com/Naman189089/OS-Simple-Loader
 
 ---
 
@@ -30,7 +30,7 @@ A basic command-line shell implementation supporting command parsing and executi
 Designed to illustrate process creation, execution, and basic input handling.
 
 Repository:  
-https://github.com/rudra-nar/Shell
+https://github.com/Naman189089/OS-Shell
 
 ---
 
@@ -45,8 +45,8 @@ https://github.com/Naman189089/SimpleScheduler
 ### Simple Multithreader
 A basic multithreading implementation illustrating thread creation, management, and concurrent execution.
 
-Repository:  
-https://github.com/rudra-nar/Multithreader
+Repository:
+https://github.com/Naman189089/OS-Multithreader
 
 ---
 
